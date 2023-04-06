@@ -1,0 +1,5 @@
+C:\TFS\STM\STMReleasedProd\Other\LSports.STM.SampleApp\Deployment\Lib\LSports.STM.SampleApp.Common.dll
+C:\TFS\STM\STMReleasedProd\Other\LSports.STM.SampleApp\Deployment\Lib\LSports.STM.SampleApp.Common.pdb
+C:\TFS\STM\STMReleasedProd\Other\LSports.STM.SampleApp\LSports.STM.SampleApp.Common\obj\Debug\LSports.STM.SampleApp.Common.dll
+C:\TFS\STM\STMReleasedProd\Other\LSports.STM.SampleApp\LSports.STM.SampleApp.Common\obj\Debug\LSports.STM.SampleApp.Common.pdb
+C:\TFS\STM\STMReleasedProd\Other\LSports.STM.SampleApp\LSports.STM.SampleApp.Common\obj\Debug\LSports.STM.SampleApp.Common.csprojResolveAssemblyReference.cache
